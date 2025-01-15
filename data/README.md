@@ -1,6 +1,6 @@
 # WARNING: These notebooks are NOT the same as the original ones!
 
-Download the original dataset and notebook on [Rechorus/data](https://github.com/THUwangcy/ReChorus/tree/master/data)
+Download the original dataset and notebook on [ReChorus/data](https://github.com/THUwangcy/ReChorus/tree/master/data)
 
 # Dataset
 
