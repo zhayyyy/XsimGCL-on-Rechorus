@@ -1,6 +1,6 @@
 # XsimGCL on ReChorus
 
-We created ./models/general/XsimGCL.py and ./helpers/XsimGCLRunner.py to apply new algorithm
+We created [XsimGCL.py](https://github.com/zhayyyy/XsimGCL-on-ReChorus/blob/XsimGCL-on-ReChorus/src/models/general/XsimGCL.py) and [XsimGCLRunner.py](https://github.com/zhayyyy/XsimGCL-on-ReChorus/blob/XsimGCL-on-ReChorus/src/helpers/XsimGCLRunner.py) to apply new algorithm
 
 # Source Code
 
