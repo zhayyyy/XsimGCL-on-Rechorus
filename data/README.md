@@ -1,5 +1,7 @@
 # WARNING: These notebooks are NOT the same as the original ones!
 
+Download the original dataset and notebook on https://github.com/THUwangcy/ReChorus/tree/master/data
+
 # Dataset
 
 We include the public [Amazon dataset](http://jmcauley.ucsd.edu/data/amazon/links.html) (*Grocery_and_Gourmet_Food* category, 5-core version with metadata), [MIND-Large dataset](https://msnews.github.io/), and [MovieLens-1M](https://grouplens.org/datasets/movielens/) as our built-in datasets.
