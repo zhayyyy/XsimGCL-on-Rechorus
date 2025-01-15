@@ -1,10 +1,13 @@
+We applied XsimGCL on ReChorus! 
+
+[![arXiv](https://img.shields.io/badge/arXiv-XsimGCL-%23B21B1B)](https://arxiv.org/abs/2209.02544)
+
 ![logo](./docs/_static/logo2.0.png)
 ---
 
 ![PyPI - Python Version](https://img.shields.io/badge/pyhton-3.10-blue) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-ReChorus-%23B21B1B)](https://arxiv.org/abs/2405.18058)
-[![arXiv](https://img.shields.io/badge/arXiv-XsimGCL-%23B21B1B)](https://arxiv.org/abs/2209.02544)
 
 
 ReChorus2.0 is a modular and task-flexible PyTorch library for recommendation, especially for research purpose. It aims to provide researchers a flexible framework to implement various recommendation tasks, compare different algorithms, and adapt to diverse and highly-customized data inputs. We hope ReChorus2.0 can serve as a more convinient and user-friendly tool for researchers, so as to form a "Chorus" of recommendation tasks and algorithms.
