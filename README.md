@@ -3,7 +3,7 @@
 
 ![PyPI - Python Version](https://img.shields.io/badge/pyhton-3.10-blue) 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/THUwangcy/ReChorus) 
+![GitHub repo size](https://img.shields.io/github/repo-size/zhayyyy/XsimGCL-on-ReChorus) 
 [![arXiv](https://img.shields.io/badge/arXiv-ReChorus-%23B21B1B)](https://arxiv.org/abs/2405.18058)
 [![arXiv](https://img.shields.io/badge/arXiv-XsimGCL-%23B21B1B)](https://arxiv.org/abs/2209.02544)
 
