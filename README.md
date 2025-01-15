@@ -2,6 +2,8 @@ We applied XsimGCL on ReChorus!
 
 [![arXiv](https://img.shields.io/badge/arXiv-XsimGCL-%23B21B1B)](https://arxiv.org/abs/2209.02544)
 
+[SelfRec](https://github.com/Coder-Yu/SELFRec)
+
 ![logo](./docs/_static/logo2.0.png)
 ---
 
