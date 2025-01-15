@@ -1,3 +1,7 @@
+# XsimGCL on ReChorus
+
+We created ./models/general/XsimGCL.py and ./helpers/XsimGCLRunner.py to apply new algorithm
+
 # Source Code
 
 `main.py` serves as the entrance of our framework, and there are three main packages. 
